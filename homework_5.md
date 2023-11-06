@@ -1,4 +1,4 @@
-![image](https://github.com/Broiler95/OTUS/assets/114237633/5cbb3c51-9e02-45be-bf2a-89f11af0ed59)## Развернул clickhouse server в docker compose
+## Развернул clickhouse server в docker compose
 ![image](https://github.com/Broiler95/OTUS/assets/114237633/f031f070-fc04-4170-bbc0-a633277ecaa8)
 
 ## Импорт тестовой БД
