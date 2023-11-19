@@ -47,4 +47,11 @@ cqlsh:homework> select * from user where id = 5 and name = 'maria' ;
 ```
 ![image](https://github.com/Broiler95/OTUS/assets/114237633/9deabec0-3272-4514-a3c8-30b5766359e5)
 
+## Создать вторичный индекс не входящий в Primary key
+```
+cqlsh:homework> CREATE INDEX IF NOT EXISTS ON orders (color);
+select * from orders where color = 'white';
+```
+![image](https://github.com/Broiler95/OTUS/assets/114237633/e02ff45f-a697-4621-b384-b85a95be78b7)
+
 
