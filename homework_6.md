@@ -35,6 +35,7 @@ cqlsh:homework> CREATE TABLE orders(id int, product text, color text, article in
 ```
 ## Наполнили данными
 ![image](https://github.com/Broiler95/OTUS/assets/114237633/d7cc971d-6c6a-4786-9a66-99455db97fe9)
+
 ![image](https://github.com/Broiler95/OTUS/assets/114237633/586fd7c0-937f-477c-bc9b-db1113a73be4)
 ## Несколько запросов с использованием WHERE
 ```
